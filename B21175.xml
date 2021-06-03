@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The deplorable case of many poor widows and masters concern'd in the Irish transport-ships. Humbly offered to the honourable House of Commons</title>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21175</idno><idno type="EEBO-CITATION">99885986</idno>
+  <idno type="VID">188599</idno>
+  <idno type="EEBO-PROQUEST">2240895158</idno>
+  
+            <idno type="STC">Wing D1069</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.17[60]</idno>
+            <idno type="STC">ESTC R225260</idno>
+            <idno type="STC">ESTC R232450</idno>
+            <idno type="STC">ESTC R225260</idno>
+            <idno type="PROQUEST">ocm99885986</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885986e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21175)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188599)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:2[56])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The deplorable case of many poor widows and masters concern'd in the Irish transport-ships. Humbly offered to the honourable House of Commons</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1692?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Great Britain. --  Army --  Organization --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:188599:1"/>
+            <head>The Deplorable CASE Of many Poor Widows and Masters Concern'd in the <hi>IRISH Transport-Ships.</hi> Humbly Offered to the Honourable HOUSE of COMMONS.</head>
+            <p>IT is humbly presumed your Honours cannot but be sensible of the Zeal of the Masters and Owners of Shiping, to Their Majesties and present Government, as appeared by their readiness, when they Universally, from all parts of <hi>England,</hi> entred themselves into their Majesties Service, to Transport the Army, Ammunition, Provision, <hi>&amp;c.</hi> for the Reducing of <hi>Ireland,</hi> on as reasonable terms as any Merchant pays: The Persons herein con<g ref="char:EOLhyphen"/>cern'd, fitted and victualled their Ships, engaged themselves and vessels for Seamens Wages, by which means very many Ships, for want of the Kings Pay, have been Seized, Condemned, and Sold, and, when all fell short of satisfaction, for the Debts contracted to maintain this Service, the Persons of several of the Commanders have been Imprisoned, and there Perished, and their Wives and Children left to the Parishes: Others have been <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orced to fly their Countrey, having taken up Money upon Intrest, to pay the debts contracted in this service, and were not able to Pay the same. And many more People who before this service lived in very good Reputation &amp; Credit, are almost reduced to Beggery.</p>
+            <p>There are in <hi>London</hi> and <hi>Southwarke</hi> a great many Widows and Fatherless Children, who lost their Husbands and Fathers in this Service; and many Mas<g ref="char:EOLhyphen"/>ters and Owners who have lost their Ships and driven to the last extremities, being out of Imployment, who have in all humillity addressed themselves to their Majesties and to the Lords of the Treasury, but all the Relief they ever found, was only an Order from the Treasury for Six Months Intrest in Tallies, upon such a remote Fund that to turn it into Mony, is nigh one third Loss.</p>
+            <p>They have likewise attended his Majesty, humbly Praying, That He would lay their Deplorable Case before this Honourable House, not questioning but your Honours would Commisserate the same, in finding some way for their speedy Relief, being often Tould that unless His Majesty Recommended it, this Honourable House could not Relieve Them.</p>
+            <p>It is therefore Humbly Hoped, That since His Majesty has so Affectionately recommended them, in His most Gracious Speech, to the care of this Ho<g ref="char:EOLhyphen"/>nourable House, That your Honours (upon a due Consideration of the Vollantariness of the People, the Goodness of the Service, and the Destress<g ref="char:EOLhyphen"/>edness of their Case) will find out some way for their relief, as in your great Wisdom Shall seem meet, without which many Families must un<g ref="char:EOLhyphen"/>doubtedly be reduced to Begg or Starve.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
